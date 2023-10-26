@@ -7,3 +7,18 @@ body{
 main{
     flex-grow: 1;
 }
+.accordion-header{
+    padding: 20px 25px;
+   border-top-right-radius: 50px;
+    background-color: rgb(246, 246, 246);
+}
+.accordion-button{
+    border-radius: 10px;
+}
+.accordion-item{
+    border: none;
+}
+.accordion-body{
+    background-color: rgb(246, 246, 246);
+    border-bottom-right-radius: 50px;
+}
